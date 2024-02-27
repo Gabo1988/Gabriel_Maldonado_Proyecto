@@ -74,8 +74,12 @@ Example response:
 The use cases used for testing are as follows:
 
 /prices?applicationDate=2024-02-14 10:00:00&productId=35455&brandId=1
+
 /prices?applicationDate=2024-02-14 16:00:00&productId=35455&brandId=1
+
 /prices?applicationDate=2024-02-14 21:00:00&productId=35455&brandId=1
+
 /prices?applicationDate=2024-02-15 10:00:00&productId=35455&brandId=1
+
 /prices?applicationDate=2024-02-16 21:00:00&productId=35455&brandId=1
 
